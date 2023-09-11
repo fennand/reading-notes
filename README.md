@@ -15,6 +15,7 @@
 ## About me
 
 My name is Andrew Fennell, and I'm a 39 year old aspiring web developer from the North West.
+
 ![FBprofilepic](https://github.com/fennand/reading-notes/assets/99410959/bc0a2648-a157-4829-bb36-1154d4b4a525)
 
 Some interesting facts about me -
@@ -25,3 +26,5 @@ Some interesting facts about me -
 - I accidentally got into football shirt collecting a few years ago, and currently have a collection of 100+. [See them here] (https://www.instagram.com/the.shirt.locker/)
 
 #### On this site I hope to document the development of my skills on my bootcamp course . . . 
+
+Class 01 - Learning Markdown
