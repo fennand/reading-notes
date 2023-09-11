@@ -27,4 +27,4 @@ Some interesting facts about me -
 
 #### On this site I hope to document the development of my skills on my bootcamp course . . . 
 
-Class 01 - Learning Markdown
+[Class 01 - Learning Markdown](https://fennand.github.io/reading-notes/class01.md)
