@@ -8,8 +8,8 @@
 
 ### How to keep yourself in a _Growth Mindset_ -
 
-- When faced by a challenge, try to embrace this and know you will take knowledge from :mortar_board:
-- Try to be inspired by the successes of others, and use it as an objective to get to that place yourself :trophy:
-- When facing criticism, remember this is something you can learn from :scroll:
+- When faced by a challenge, try to embrace this and know you will take knowledge from 🎓
+- Try to be inspired by the successes of others, and use it as an objective to get to that place yourself 🏆
+- When facing criticism, remember this is something you can learn from 📜
 
-#### My name is Andy and you can find more of my work @ https://github.com/fennand :partying_face:
+#### My name is Andy and you can find more of my work @ [https://github.com/fennand] (https://github.com/fennand) 🥳
