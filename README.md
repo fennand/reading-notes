@@ -12,4 +12,4 @@
 - Try to be inspired by the successes of others, and use it as an objective to get to that place yourself :trophy:
 - When facing criticism, remember this is something you can learn from :scroll:
 
-#### My name is Andy and you can find more of my work @ [https://github.com/fennand] :partying_face:
+#### My name is Andy and you can find more of my work @ https://github.com/fennand :partying_face:
