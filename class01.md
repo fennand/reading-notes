@@ -11,12 +11,18 @@
 
 3. What symbol will create a heading in Markdown? How many do you need to create the largest heading? How many do you need to create the smallest heading?
 - We use the # symbol to create a heading, with one used for the largest heading, and the smallest heading uses six.
+# Heading One
+## Heading Two
+### Heading Three
+#### Heading Four
+##### Heading Five
+###### Heading Six
 
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
-- To make text bold, we use two *'s on either end of the word/words we want to make bold. To make text italicized, we use one *'s on either end of the word/words we want to make italicized. We could also use underscores, however best practice is to use an asterix as some applications cannot handle an underscore in the middle of a word.
+- To make text bold, we use two *'s on either end of the word/words we want to make **bold**. To make text italicized, we use one *'s on either end of the word/words we want to make *italicized*. We could also use underscores, however best practice is to use an asterix as some applications cannot handle an underscore in the middle of a word.
 
 5. How do you create a link with Markdown?
-- To create a link, we put the link text in square brackets and then immediately follow this with the URL in curved brackets.
+- To create a link, we put the link text in square brackets and then immediately follow this with the URL in curved brackets. [Example](https://fennand.github.io/reading-notes/)
 
 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 - The three symbols that can be used are a dash (-), an asterix (*), or a plus sign (+).
