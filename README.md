@@ -8,7 +8,7 @@
 
 ### How to keep yourself in a _Growth Mindset_ -
 
-- When faced by a challenge, try to embrace this and know you will take knowledge from 🎓
+- When faced by a challenge, try to embrace this and know you will take knowledge from it 🎓
 - Try to be inspired by the successes of others, and use it as an objective to get to that place yourself 🏆
 - When facing criticism, remember this is something you can learn from 📜
 
