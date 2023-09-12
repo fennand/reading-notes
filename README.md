@@ -27,6 +27,7 @@ Some interesting facts about me -
 
 #### On this site I hope to document the development of my skills on my bootcamp course . . . 
 
-[Class 01 - Learning Markdown](https://fennand.github.io/reading-notes/class01.md)
-[Read 02 - The Coder's Computer](https://fennand.github.io/reading-notes/read02.md)
-[Read 03 - Revisions and the Cloud](https://fennand.github.io/reading-notes/read03.md)
+- [Class 01 - Learning Markdown](https://fennand.github.io/reading-notes/class01.md)
+- [Read 02 - The Coder's Computer](https://fennand.github.io/reading-notes/read02.md)
+- [Read 03 - Revisions and the Cloud](https://fennand.github.io/reading-notes/read03.md)
+- [Read 04 - Structure web pages with HTML](https://fennand.github.io/reading-notes/read04.md)
