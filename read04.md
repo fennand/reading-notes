@@ -16,4 +16,4 @@
   
 4. What is a semantic element?
 
-   - Semantic elements are those that describe the purpose of the element and the contect inside them (ie *'''<header>'''* or *'''<article>'''*).
+   - Semantic elements are those that describe the purpose of the element and the contect inside them (ie *'<header>'* or *'<article>'*).
