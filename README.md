@@ -29,3 +29,4 @@ Some interesting facts about me -
 
 [Class 01 - Learning Markdown](https://fennand.github.io/reading-notes/class01.md)
 [Read 02 - The Coder's Computer](https://fennand.github.io/reading-notes/read02.md)
+[Read 03 - Revisions and the Cloud](https://fennand.github.io/reading-notes/read03.md)
