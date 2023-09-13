@@ -31,3 +31,4 @@ Some interesting facts about me -
 - [Read 02 - The Coder's Computer](https://fennand.github.io/reading-notes/read02.md)
 - [Read 03 - Revisions and the Cloud](https://fennand.github.io/reading-notes/read03.md)
 - [Read 04 - Structure web pages with HTML](https://fennand.github.io/reading-notes/read04.md)
+- [Read 06 - Dynamic web pages with JavaScript](https://fennand.github.io/reading-notes/read06.md)
