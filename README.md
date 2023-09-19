@@ -33,3 +33,7 @@ Some interesting facts about me -
 - [Read 04 - Structure web pages with HTML](https://fennand.github.io/reading-notes/read04.md)
 - [Read 05 - Design web pages with CSS](https://fennand.github.io/reading-notes/read05.md)
 - [Read 06 - Dynamic web pages with JavaScript](https://fennand.github.io/reading-notes/read06.md)
+
+#### Class 201
+
+- [Read 02 - Readings: Basics of HTML, CSS & JS](https://fennand.github.io/reading-notes/read06.md)
