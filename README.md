@@ -36,4 +36,4 @@ Some interesting facts about me -
 
 #### Class 201
 
-- [Read 02 - Readings: Basics of HTML, CSS & JS](https://fennand.github.io/reading-notes/read06.md)
+- [Read 02 - Readings: Basics of HTML, CSS & JS](https://fennand.github.io/reading-notes/class02.md)
