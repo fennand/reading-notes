@@ -40,6 +40,7 @@ Some interesting facts about me -
 
 - [Read 01 - Readings: Getting Started and Introduction to HTML](https://fennand.github.io/reading-notes/class01-201.md)
 - [Read 02 - Readings: Basics of HTML, CSS & JS](https://fennand.github.io/reading-notes/class02.md)
+- [Read 03 - Readings: HTML Lists, Control Flow with JS, and the CSS Box Model](https://fennand.github.io/reading-notes/class03.md)
 - [Read 04 - Readings: HTML Links, JS Functions, and Intro to CSS Layout](https://fennand.github.io/reading-notes/class04.md)
 - [Read 06 - Readings: Problem Domain, Objects, and the DOM](https://fennand.github.io/reading-notes/class06.md)
 - [Read 07 - Readings: Object-Oriented Programming, HTML Tables](https://fennand.github.io/reading-notes/class07.md)
