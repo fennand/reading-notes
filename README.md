@@ -44,3 +44,4 @@ Some interesting facts about me -
 - [Read 04 - Readings: HTML Links, JS Functions, and Intro to CSS Layout](https://fennand.github.io/reading-notes/class04.md)
 - [Read 06 - Readings: Problem Domain, Objects, and the DOM](https://fennand.github.io/reading-notes/class06.md)
 - [Read 07 - Readings: Object-Oriented Programming, HTML Tables](https://fennand.github.io/reading-notes/class07.md)
+- [Read 08 - Readings: CSS Layout](https://fennand.github.io/reading-notes/class08.md)
