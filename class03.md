@@ -37,4 +37,36 @@
   
 #### Learn JS - Arrays. Operators and Expressions. Conditionals. Loops.
 
-1. 
+1. What data types can you store inside of an Array?
+
+   - They can store any data types, such as text, integers, booleans, other arrays, etc.
+  
+2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+ > const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+
+   - Yes it is a valid array. To access the value of 'librarian', you would write people[0][1], and so on
+
+3. List five shorthand operators for assignment in javascript and describe what they do.
+
+   - Assignment - x = f() - This assigns a value to a variable or property.
+   - Addition assignment - x += f() - This performs addition (which is either numeric addition or string concatenation) on the two operands and assigns the result to the left operand.
+   - Remainder assignment - x %= f() - This performs remainder on the two operands and assigns the result to the left operand.
+   - Exponential assignment - x **= f() - This performs exponentiation (the result of raising the first operand to the power of the second operand) on the two operands and assigns the result to the left operand.
+   - Logical *AND* assignment - x &&= f() - This only evaluates the right operand and assigns to the left if the left operand is truthy.
+  
+4. Read the code below and evaluate the last expression and explain what the result would be and why.
+>  let a = 10;
+ let b = 'dog';
+ let c = false;
+ // evaluate this
+ (a + c) + b;
+
+   - The result would be 10dog. This is because when doing addition with a boolean it gets converted it to a number. As false = 0 and true = 1, the above is converted into 10 + 0 = 10. It would then concatenate the number to a string, so it is then 10dog.
+
+5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+
+  - Using an *if else* statement when getting input from a user. If you were designing a wesbite that featured gambling, you could use an *if else* statement to ask a user if they are older than 18. If they are not (falsey) you could then display a message stating they are not old enough to access the site and restrict when information is displayed.
+
+6 . Give an example of when a Loop is useful in JavaScript.
+
+  - If you had to print out a word or sentence multiple times on your screen, a loop would be a time saver.
