@@ -46,3 +46,4 @@ Some interesting facts about me -
 - [Read 07 - Readings: Object-Oriented Programming, HTML Tables](https://fennand.github.io/reading-notes/class07.md)
 - [Read 08 - Readings: CSS Layout](https://fennand.github.io/reading-notes/class08.md)
 - [Read 09 - Readings: Forms and JS Events](https://fennand.github.io/reading-notes/class09.md)
+- [Read 10 - Readings: Debugging](https://fennand.github.io/reading-notes/class10.md)
