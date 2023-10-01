@@ -36,6 +36,7 @@ Some interesting facts about me -
 - [Read 05 - Design web pages with CSS](https://fennand.github.io/reading-notes/read05.md)
 - [Read 06 - Dynamic web pages with JavaScript](https://fennand.github.io/reading-notes/read06.md)
 - [Read 07 - Programming with JavaScript](https://fennand.github.io/reading-notes/read07.md)
+- [Read 08 - Operators and Loops](https://fennand.github.io/reading-notes/read08.md)
 
 #### Class 201
 
