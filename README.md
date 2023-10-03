@@ -52,3 +52,4 @@ Some interesting facts about me -
 - [Read 10 - Readings: Debugging](https://fennand.github.io/reading-notes/class10.md)
 - [Read 11 - Readings: Audio, Video, Images](https://fennand.github.io/reading-notes/class11.md)
 - [Read 12 - Readings: Chart.js, Canvas](https://fennand.github.io/reading-notes/class12.md)
+- [Read 13 - Readings: Local Storage and How To Use It On Websites](https://fennand.github.io/reading-notes/class13.md)
