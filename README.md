@@ -59,3 +59,4 @@ Some interesting facts about me -
   
 - [Read 01 - Readings: Introduction to React and Components](https://fennand.github.io/reading-notes/class03-Read01.md)
 - [Read 02 - Readings: State and Props](https://fennand.github.io/reading-notes/class03-Read02.md)
+- [Read 03 - Readings: Passing Functions as Props](https://fennand.github.io/reading-notes/class03-Read03.md)
