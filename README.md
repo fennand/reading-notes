@@ -58,3 +58,4 @@ Some interesting facts about me -
   #### Class 301
   
 - [Read 01 - Readings: Introduction to React and Components](https://fennand.github.io/reading-notes/class03-Read01.md)
+- [Read 02 - Readings: State and Props](https://fennand.github.io/reading-notes/class03-Read02.md)
