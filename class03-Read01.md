@@ -1,6 +1,6 @@
 # Class 301 - Read 01 - Readings: Introduction to React and Components
 
-## Answerw
+## Answers
 
 ### Component-Based Architecture
 
