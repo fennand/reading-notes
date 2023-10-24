@@ -54,3 +54,7 @@ Some interesting facts about me -
 - [Read 12 - Readings: Chart.js, Canvas](https://fennand.github.io/reading-notes/class12.md)
 - [Read 13 - Readings: Local Storage and How To Use It On Websites](https://fennand.github.io/reading-notes/class13.md)
 - [Read 14 - Readings: CSS Transforms, Transitions & Animations](https://fennand.github.io/reading-notes/class14.md)
+
+  #### Class 301
+  
+- [Read 01 - Readings: Introduction to React and Components](https://fennand.github.io/reading-notes/class03-Read01.md)
